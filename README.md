@@ -21,32 +21,33 @@ Follow these steps to install an application from a `.dmg` file:
 
 1. **Attach the Disk Image**
    Attach the disk image to the system without automatically mounting it:
+   #### Tip: You can drag the dmg file into the terminal to automatically get the path.
    ```bash
    hdiutil attach /path/to/file.dmg -nomount
    ```
 
-2. **Take Note of the Output**
+3. **Take Note of the Output**
    Save the output of the command to identify the attached disk (e.g., `/dev/disk4s1`).
 
-3. **Create a Mount Point**
+4. **Create a Mount Point**
    Create a directory to serve as the mount point:
    ```bash
    mkdir ~/mnt
    ```
 
-4. **Mount the Disk Image**
+5. **Mount the Disk Image**
    Mount the disk image in read-only mode using the output from step 3:
    ```bash
    mount -t hfs -o rdonly /dev/disk4s1 ~/mnt
    ```
 
-5. **Access the Contents**
+6. **Access the Contents**
    Open the mounted directory to access the application files:
    ```bash
    open ~/mnt
    ```
 
-6. **Complete the Installation**
+7. **Complete the Installation**
    Follow the application's installation instructions from the mounted directory.
 
 ## bypassing the firewall to access blocked websites (VPN)
