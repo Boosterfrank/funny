@@ -1,6 +1,5 @@
 # Funny
 ### (not actually funny)
-#### Improved by Franco
 
 # Important: EDUCATIONAL ONLY!!!!!! Make sure follow the rules i do not take any responibility for action done with this code my only goal is to educate and with that please be responsiable with the code provided my goal is not to assist in the bypassing of security restrictions.
 #
