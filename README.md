@@ -49,15 +49,17 @@ Follow these steps to install an application from a `.dmg` file:
 6. **Complete the Installation**
    Follow the application's installation instructions from the mounted directory.
 
-# Make a network tunnel
+## bypassing the firewall to access blocked websites (VPN)
 
-Follow these steps to make a vpn using a VPN:
+Follow these steps to install a VPN:
 
-1. https://drive.google.com/file/d/1QzoazrjsxT1RGHcT4aEsrFo0xpXYi1bJ/view?usp=sharing donwnload + unzip
+1. https://account.protonvpn.com/downloads
 
 3. **Configure and Use the VPN**
+   - Create or sign in to ProtonVPN (Required)
+   - Download the application and extract using the install any app method above ^.
    - Launch the application.
-   - Follow the application's instructions to connect to your VPN and bypass the firewall to access blocked pages.
+   - Follow the application's instructions to connect to your VPN and bypass the firewall to access blocked websites.
 
 
 #### (YouTube + Tiktok + discord type applications use both previous methods)
