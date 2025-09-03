@@ -12,10 +12,10 @@
 #
 #
 
-# You Can install any application easy by just downloading the .zip and unziping the .zip (DO NOT DISTRIBUTE)
+# You Can install any application from the files above ^ by just downloading the .zip and unziping the .zip (DO NOT DISTRIBUTE)
 
 
-# How to Install Any Application
+# How to Install Any Application (APP MUST BE IN DMG FORMAT)
 
 Follow these steps to install an application from a `.dmg` file:
 
@@ -57,12 +57,12 @@ Follow these steps to make a vpn using a VPN:
 
 3. **Configure and Use the VPN**
    - Launch the application.
-   - Follow the application's instructions to connect to your VPN and bypass the firewall.
+   - Follow the application's instructions to connect to your VPN and bypass the firewall to access blocked pages.
 
 
-#### (YouTube + Tiktok + discord type applications use both previous commands)
+#### (YouTube + Tiktok + discord type applications use both previous methods)
 
-# Installing Homebrew and Java without sudo access
+# Installing Homebrew and Java without sudo access (Tools for nerds)
 
 ## Installing Homebrew
 
@@ -153,5 +153,5 @@ brew doctor
 - Make sure to restart your terminal after making PATH changes
 
 
-## installing python without sudo access
-just install Visual Studio Code and the python extension in it
+## installing Python without sudo access
+Just install Visual Studio Code and the Python extension in it, or using Homebrew
