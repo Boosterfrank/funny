@@ -7,7 +7,7 @@
     },
     {
       "source": "/modrinth",
-      "destination": "https://launcher-files.modrinth.com/versions/0.10.8/macos/Modrinth%20App_0.10.8_universal.dmg",
+      "destination": "https://launcher-files.modrinth.com/versions/0.10.7/macos/Modrinth%20App_0.10.7_universal.dmg",
       "permanent": true
     },
     {
