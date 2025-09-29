@@ -1,26 +1,6 @@
 {
   "redirects": [
     {
-      "source": "/epicgames",
-      "destination": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncher.dmg",
-      "permanent": true
-    },
-    {
-      "source": "/modrinth",
-      "destination": "https://launcher-files.modrinth.com/versions/0.10.8/macos/Modrinth%20App_0.10.8_universal.dmg",
-      "permanent": true
-    },
-    {
-      "source": "/minecraft",
-      "destination": "https://aka.ms/minecraftClientMac",
-      "permanent": true
-    },
-    {
-      "source": "/steam",
-      "destination": "https://cdn.fastly.steamstatic.com/client/installer/steam.dmg",
-      "permanent": true
-    }
-    {
       "source": "/flappy",
       "destination": "https://api.cococloud-signing.online/files/free/own-signing.php?certp12URL=https://github.com/Boosterfrank/Lenny-Bootstrapp/raw/refs/heads/main/Devcert/DevCert.p12&certmobileprovisionURL=https://github.com/Boosterfrank/Lenny-Bootstrapp/raw/refs/heads/main/Devcert/DevProvision.mobileprovision&certpass=684100&url=https://github.com/Boosterfrank/Lenny-Bootstrapp/releases/download/IPA/Flappy.Bird_4.3_1751637154.ipa",
       "permanent": true
